@@ -1,7 +1,8 @@
 # Roza Zonix
 
 ![Roza Zonix](images/roza_zonix.png)
-[](roza_zonix.png)
+[roza_zonix](roza_zonix.png)
+[roza_zonix](roza_zonix)
 
 ## Характеристики
 - **Пол**: Девушка  
