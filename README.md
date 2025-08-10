@@ -16,3 +16,4 @@ Welcome to the Anime wiki
 Оружия магическая уничтожает демонов и плохих организации
 Частое появление Emochi, wiki
 https://github.com/linuxorti/Anime.wiki.git
+https://ddrp.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0
