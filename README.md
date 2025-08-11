@@ -5,11 +5,11 @@ linuxorti.github.io
 # Anime
 # Roza Zonix  
 
-![Фото Roza](roza_zonix.jpg)  
+[1Фото Roza](roza_zonix.jpg)  
 
-[](roza_zonix.jpg)  
+[2](roza_zonix.jpg)  
 
-[](roza_zonix)  
+[3](roza_zonix)  
 
 ## Характеристики  
 - **Пол**: Девушка  
