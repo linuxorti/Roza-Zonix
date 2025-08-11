@@ -7,6 +7,10 @@ linuxorti.github.io
 
 ![Фото Roza](roza_zonix.jpg)  
 
+[](roza_zonix.jpg)  
+
+[](roza_zonix)  
+
 ## Характеристики  
 - **Пол**: Девушка  
 - **Одежда**: Боевой костюм горничной  
