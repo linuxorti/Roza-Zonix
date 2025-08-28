@@ -63,6 +63,7 @@ https://ddrp.fandom.com/ru/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B
 
 ![17564169056562782296509979276021](https://github.com/user-attachments/assets/6a204e68-de85-4165-b10a-79bae7f7cce0)
 
+[~1](https://linuxorti.github.io/Roza-Zonix/) 
 
 # **🔥 Roza Zonix — Полное досье**  
 
