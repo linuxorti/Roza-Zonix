@@ -12,6 +12,9 @@ linuxorti.github.io
 [3](roza_zonix)  
 
 [4](https://github.com/linuxorti/Anime/blob/main/roza_zonix.png) 
+
+![17564169056562782296509979276021](https://github.com/user-attachments/assets/6e557fc0-d219-4df2-8ed4-f7eb0bb494f3)
+
 ## Характеристики  
 - **Пол**: Девушка  
 - **Одежда**: Боевой костюм горничной  
